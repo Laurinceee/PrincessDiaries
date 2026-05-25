@@ -480,34 +480,8 @@ body{
 
                     </a>
 
-                    <!-- CLEARANCE
-
-                    <a href="clearances/index.php"
-                       class="portal-btn clearance-btn">
-
-                        <div class="left">
-
-                            <i class="fa-solid fa-print"></i>
-
-                            <div>
-
-                                Clearance Services
-
-                                <small>
-                                    View and manage barangay clearances
-                                </small>
-
-                            </div>
-
-                        </div>
-
-                        <i class="fa-solid fa-arrow-right"></i>
-
-                    </a>
-
-                </div> -->
-
-               <!-- BARANGAY INFORMATION -->
+                </div>
+              <!-- BARANGAY INFORMATION -->
 
 <div class="info-card">
 
@@ -519,10 +493,11 @@ body{
 
         <div class="info-item">
 
-            <i class="fa-solid fa-building"></i>
+            <i class="fa-solid fa-location-dot"></i>
 
             <span>
-                About the Barangay
+                Barangay Hall, Purok 1,
+                Cavite City, Philippines
             </span>
 
         </div>
@@ -532,17 +507,31 @@ body{
             <i class="fa-solid fa-phone"></i>
 
             <span>
-                Contact Barangay Office
+                Contact Number:
+                0912-345-6789
             </span>
 
         </div>
 
         <div class="info-item">
 
-            <i class="fa-solid fa-book"></i>
+            <i class="fa-solid fa-clock"></i>
 
             <span>
-                Resident Guide & Services
+                Office Hours:
+                Monday - Friday
+                8:00 AM - 5:00 PM
+            </span>
+
+        </div>
+
+        <div class="info-item">
+
+            <i class="fa-solid fa-envelope"></i>
+
+            <span>
+                Email:
+                barangay@email.com
             </span>
 
         </div>
